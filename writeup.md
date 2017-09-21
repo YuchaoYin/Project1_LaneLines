@@ -3,13 +3,8 @@
 
 ---
 
-**Finding Lane Lines on the Road**
+**Writeup of Project1**
 
-
-
-[//]: # (Image References)
-
-[image1]: ./examples/grayscale.jpg "Grayscale"
 
 ---
 
